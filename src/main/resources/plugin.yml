@@ -1,4 +1,4 @@
-name: EnchantmentSlotsAPI
+name: EnchantmentSlots
 version: '${project.version}'
-main: cn.superiormc.enchantmentslotsapi.EnchantmentSlotsAPI
+main: cn.superiormc.enchantmentslots.EnchantmentSlots
 api-version: '1.14'

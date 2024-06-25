@@ -1,4 +1,4 @@
-package cn.superiormc.enchantmentslotsapi.methods;
+package cn.superiormc.enchantmentslots.methods;
 
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.entity.Player;

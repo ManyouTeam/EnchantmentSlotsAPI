@@ -1,7 +1,5 @@
-package cn.superiormc.enchantmentslotsapi.configs;
+package cn.superiormc.enchantmentslots.configs;
 
-import org.bukkit.Bukkit;
-import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;

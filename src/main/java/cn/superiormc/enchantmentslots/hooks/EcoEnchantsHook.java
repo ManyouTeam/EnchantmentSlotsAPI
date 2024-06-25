@@ -1,4 +1,4 @@
-package cn.superiormc.enchantmentslotsapi.hooks;
+package cn.superiormc.enchantmentslots.hooks;
 
 import com.willfp.ecoenchants.enchant.EcoEnchantLike;
 import org.bukkit.entity.Player;

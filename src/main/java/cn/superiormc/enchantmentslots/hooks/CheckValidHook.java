@@ -1,4 +1,4 @@
-package cn.superiormc.enchantmentslotsapi.hooks;
+package cn.superiormc.enchantmentslots.hooks;
 
 import org.bukkit.inventory.ItemStack;
 
