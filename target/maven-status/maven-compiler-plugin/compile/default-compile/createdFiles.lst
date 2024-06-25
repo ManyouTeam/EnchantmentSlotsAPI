@@ -1,0 +1,9 @@
+cn\superiormc\enchantmentslotsapi\hooks\CheckValidHook.class
+cn\superiormc\enchantmentslotsapi\methods\Condition.class
+cn\superiormc\enchantmentslotsapi\methods\ExtraSlotsItem.class
+cn\superiormc\enchantmentslotsapi\configs\ConfigReader.class
+cn\superiormc\enchantmentslotsapi\methods\Action.class
+cn\superiormc\enchantmentslotsapi\methods\ItemModify.class
+cn\superiormc\enchantmentslotsapi\EnchantmentSlotsAPI.class
+cn\superiormc\enchantmentslotsapi\hooks\EcoEnchantsHook.class
+cn\superiormc\enchantmentslotsapi\methods\ItemLimits.class
